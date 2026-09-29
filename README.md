@@ -21,3 +21,12 @@ die Seite ist eine einzige Datei und läuft auch offline.
 `index.html` wird von `_Skripte/baue_uebung.py` aus dem Register erzeugt und
 hierher kopiert. Änderungen gehören ins Register, nicht in diese Datei – sie
 würden beim nächsten Lauf überschrieben.
+
+## Weitere Übungen
+
+| Adresse | Inhalt |
+|---|---|
+| [`ph09/energieumwandlungen/`](https://pru19.github.io/GrundwissenPhysik/ph09/energieumwandlungen/) | Jgst. 9, Energieumwandlungen – zuordnen, Ketten bauen, Bilderserie, beschreiben |
+
+Auch diese Seiten speichern und übertragen nichts. Die Quelle liegt im
+Unterrichtsarbeitsbereich (`_Quellen/AB02 Übung.html`) und wird hierher kopiert.
